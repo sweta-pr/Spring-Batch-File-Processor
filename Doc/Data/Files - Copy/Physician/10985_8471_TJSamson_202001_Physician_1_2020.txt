@@ -1,0 +1,5 @@
+Facility ID	Physician Code	Physician Name
+8471	1811955884	Ranka, Marvin
+8471	1457388460	Cheng, Rolls L
+8471	1069925962	Vo, Ca Jeff V
+8471	1891733602	Garr, C Louis
